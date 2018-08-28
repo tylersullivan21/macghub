@@ -1,2 +1,1 @@
-this is the second branch. Here i am doing changes taht i dont want to keep on the master branch.
-from here i can make all the changes that i want to and it wont affect the master branch.
+i found that i made a grammar and spelling mistake so i deleted all the text and added this 
