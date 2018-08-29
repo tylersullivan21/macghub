@@ -1,10 +1,10 @@
-i found that i made a grammar and spelling mistake so i deleted all the text and added this
+this will be the master that i will not touch
+
+the other branches will be used to tweak and change things in this repopsitory.
+
+good morning
+
+hello hello world
 
 
-here i added one more line of text that i did not add to the master and third branch.
-
-
-another line has been added here
-
-
-good morning everyone.
+added text on the second-branch
